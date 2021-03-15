@@ -34,5 +34,6 @@ div {
 }
 div:hover {
     background-color: lightcyan;
+    transform: rotate(-180deg);
 }
     
