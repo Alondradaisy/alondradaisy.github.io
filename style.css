@@ -1,0 +1,38 @@
+body {
+    background-color: ivory;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    font-size: 40px;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    background-color: wheat;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+    
+div {
+    display: flex;
+    justify-content: center;
+}
+div:hover {
+    background-color: lightcyan;
+}
+    
